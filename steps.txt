@@ -1,0 +1,19 @@
+1. npm init
+2. npm i --save-dev typescript
+3. npx tsc --init
+4. npm i --save-dev webpack webpack-cli webpack-dev-server html-webpack-plugin ts-loader
+5. git init
+6. Added .gitignore
+7. Added webpack config
+8. npm i react react-dom
+9. npm i --save-dev @types/react @types/react-dom
+10. Created index.tsx file
+11. npm start
+12. npm run build
+13. npx serve build
+14. npm install --save-dev prettier
+15. touch .prettierrc
+16. Created .vscode settings
+17. npx eslint --init
+18. npm install --save-dev eslint-config-prettier eslint-plugin-prettier
+19. 
